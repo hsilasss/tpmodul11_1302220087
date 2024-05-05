@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AljabarMain/1.0.0": {
+        "dependencies": {
+          "AljabarLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AljabarMain.dll": {}
+        }
+      },
+      "AljabarLibrary/1.0.0": {
+        "runtime": {
+          "AljabarLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AljabarMain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AljabarLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

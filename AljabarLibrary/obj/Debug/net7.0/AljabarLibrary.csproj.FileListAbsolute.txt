@@ -1,0 +1,11 @@
+C:\Users\Henri\source\repos\tpmodul11_1302220087\AljabarLibrary\bin\Debug\net7.0\AljabarLibrary.deps.json
+C:\Users\Henri\source\repos\tpmodul11_1302220087\AljabarLibrary\bin\Debug\net7.0\AljabarLibrary.dll
+C:\Users\Henri\source\repos\tpmodul11_1302220087\AljabarLibrary\bin\Debug\net7.0\AljabarLibrary.pdb
+C:\Users\Henri\source\repos\tpmodul11_1302220087\AljabarLibrary\obj\Debug\net7.0\AljabarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henri\source\repos\tpmodul11_1302220087\AljabarLibrary\obj\Debug\net7.0\AljabarLibrary.AssemblyInfoInputs.cache
+C:\Users\Henri\source\repos\tpmodul11_1302220087\AljabarLibrary\obj\Debug\net7.0\AljabarLibrary.AssemblyInfo.cs
+C:\Users\Henri\source\repos\tpmodul11_1302220087\AljabarLibrary\obj\Debug\net7.0\AljabarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Henri\source\repos\tpmodul11_1302220087\AljabarLibrary\obj\Debug\net7.0\AljabarLibrary.dll
+C:\Users\Henri\source\repos\tpmodul11_1302220087\AljabarLibrary\obj\Debug\net7.0\refint\AljabarLibrary.dll
+C:\Users\Henri\source\repos\tpmodul11_1302220087\AljabarLibrary\obj\Debug\net7.0\AljabarLibrary.pdb
+C:\Users\Henri\source\repos\tpmodul11_1302220087\AljabarLibrary\obj\Debug\net7.0\ref\AljabarLibrary.dll
